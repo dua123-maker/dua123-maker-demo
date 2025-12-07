@@ -1,2 +1,4 @@
 # dua123-maker-demo
-this is my first project repository
+This is my first project repository
+<br>
+Arthur- Duaa Javaid
