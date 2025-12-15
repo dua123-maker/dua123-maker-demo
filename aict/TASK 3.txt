@@ -1,0 +1,16 @@
+#include<iostream>
+#include<stdlib.h>
+#include<time.h>
+using namespace std;
+int main()
+{
+	int totalplayers;
+	cout<<"enter the no. of players:";
+	cin>>totalplayers;
+	int attempt[5];
+	for(int i=0;i<5;i++)
+	{
+		cin>>attempt[i];
+	}
+	return 0;
+}
